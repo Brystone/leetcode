@@ -25,7 +25,7 @@ public class CombinationSum2 {
 
         for (int i=start; i<nums.length; i++) {
             if (target - nums[i] < 0) break;
-            if ( i > start && nums[i] == nums[i-1]) continue;
+            if ( i > start && nums[i] == nums[i-1]) continue; //
             temp.add(nums[i]);
             backTrack2(target-nums[i], res, temp, nums, i+1);
             temp.remove(temp.size() - 1);

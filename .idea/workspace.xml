@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/jianzhioffer/sort/FindKMin.java" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/src/leetcode/bitopration/SingleNumberIII.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e1a0af9-0ce5-4355-87d5-af09638171b7" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/backtracking/47 PermuteUnique.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/backtracking/784 字母大小写全排列.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/backtracking/LetterCasePermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/backtracking/NumSquarefulPerms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/backtracking/PermuteUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/backtracking/SubsetsWithDup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/backtracking/SubsetsWithDup.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ds$Demo__1_.ic" NAME="Demo (1) Coverage Results" MODIFIED="1576751975512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ds$LetterCasePermutation.ic" NAME="LetterCasePermutation Coverage Results" MODIFIED="1589552130701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.backtracking.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LetterCombinations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/LetterCombinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCasePermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/LetterCasePermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#315#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateParenthesis.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/GenerateParenthesis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermuteUnique.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/PermuteUnique.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/Permutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="41" column="43" lean-forward="true" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumSquarefulPerms.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/NumSquarefulPerms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1304#1305#0" expanded="true" />
+                <element signature="e#1368#1369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="784 字母大小写全排列.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/784 字母大小写全排列.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>:</find>
+      <find>iangge</find>
+      <find>quene</find>
+      <find>size()</find>
+      <find>add</find>
+      <find>hare</find>
+      <find>cur</find>
+      <find>arr</find>
+      <find>temperatures</find>
+      <find>numbers</find>
+      <find>reconstruc</find>
+      <find>helper</find>
+      <find>nums</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fast</replace>
+      <replace>root</replace>
+      <replace>ListNode</replace>
+      <replace>T</replace>
+      <replace>numbers</replace>
+      <replace>nums</replace>
+      <replace>buildTree</replace>
+      <replace>backtrack</replace>
+      <replace>A</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/leetcode/dp/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/MaxPathSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/Rob.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/String/ReplaceBlank.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/LinkList/PrintListReversingly_Iteratively.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/sort/InverseCount.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/SubtreeofAnotherTree.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/tree/BinaryToLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/InvertBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/sort/PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/PathSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stackandquene/QueueusingStacks.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/PathSumII.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/BestTimetoBuyandSellStock.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/tree/PrintAllPathBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/bitopration/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/bitopration/FindNumsAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/bitopration/SingleNumberIII.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadIml3.java" />
+        <option value="$PROJECT_DIR$/src/thread/ThreadIml.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/LowestCommonAncestorofaBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/string/IsValid.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/string/IsRule.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tree/BuildTree.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/string/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/bitopration/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/tree/BinaryTreeGetNext.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/MinPathSum.java" />
+        <option value="$PROJECT_DIR$/src/newcoder/dp/MethodsToPoint.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/LengthOfLIS.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/LongestCommonSubString.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/Jump.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dp/JumpII.java" />
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/string/LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/Combine.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/SubsetsWithDup.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/PermuteUnique.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/backtracking/GenerateParenthesis.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/Permutations.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/NumSquarefulPerms.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/LetterCasePermutation.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/backtracking/GenerateParenthesis.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nettyRPC" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1216" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;AQS&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;concurrenthashmap&#9;FILE&#9;file://F:/java资料/项目/ds/src/leetcode/findAsort/FindPeakElement.java&#10;Hashmap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;array&#9;FILE&#9;jar://D:/anzhuang/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;add()&#9;PSI&#9;JAVA://DogCatQuene.DogCatQuene#add&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578731078153" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="jianzhioffer.hashtable" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jianzhioffer.LinkList" />
+      <recent name="jianzhioffer.tree" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java资料\项目\ds\src\leetcode\backtracking" />
+      <recent name="F:\java资料\项目\ds\src\leetcode\dp" />
+      <recent name="F:\java资料\项目\ds\src\jianzhioffer\dp" />
+      <recent name="F:\java资料\项目\ds\src\leetcode\findAsort" />
+      <recent name="F:\java资料\项目\ds\src\jianzhioffer\String" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GenerateParenthesis">
+    <configuration name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.backtracking.GenerateParenthesis" />
+      <module name="ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LetterCasePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.backtracking.LetterCasePermutation" />
+      <module name="ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NumSquarefulPerms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.backtracking.NumSquarefulPerms" />
+      <module name="ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.backtracking.Permutations" />
+      <module name="ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SubsetsWithDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.backtracking.SubsetsWithDup" />
+      <module name="ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SubsetsWithDup" />
+      <item itemvalue="Application.LetterCasePermutation" />
+      <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.NumSquarefulPerms" />
+      <item itemvalue="Application.GenerateParenthesis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenerateParenthesis" />
+        <item itemvalue="Application.NumSquarefulPerms" />
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.LetterCasePermutation" />
+        <item itemvalue="Application.SubsetsWithDup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e1a0af9-0ce5-4355-87d5-af09638171b7" name="Default Changelist" comment="" />
+      <created>1564450641148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564450641148</updated>
+      <workItem from="1564450646755" duration="21204000" />
+      <workItem from="1564905457273" duration="7957000" />
+      <workItem from="1565164083286" duration="6279000" />
+      <workItem from="1566393345361" duration="57604000" />
+      <workItem from="1566888171707" duration="882000" />
+      <workItem from="1567236814356" duration="10841000" />
+      <workItem from="1567604413957" duration="2311000" />
+      <workItem from="1567685941940" duration="11468000" />
+      <workItem from="1567905026373" duration="3735000" />
+      <workItem from="1568077306950" duration="18999000" />
+      <workItem from="1568516177608" duration="29775000" />
+      <workItem from="1569036001910" duration="12756000" />
+      <workItem from="1569158180599" duration="4554000" />
+      <workItem from="1569287864301" duration="4924000" />
+      <workItem from="1569328318292" duration="5197000" />
+      <workItem from="1569757319885" duration="24000" />
+      <workItem from="1569842629316" duration="10491000" />
+      <workItem from="1569999372305" duration="2621000" />
+      <workItem from="1570109883886" duration="5390000" />
+      <workItem from="1570252843799" duration="1965000" />
+      <workItem from="1570273296409" duration="5424000" />
+      <workItem from="1570339335538" duration="2526000" />
+      <workItem from="1570447792295" duration="2293000" />
+      <workItem from="1570529070469" duration="3189000" />
+      <workItem from="1570804091725" duration="638000" />
+      <workItem from="1571015597558" duration="5479000" />
+      <workItem from="1571027555365" duration="1792000" />
+      <workItem from="1571191388125" duration="11882000" />
+      <workItem from="1571537503628" duration="2892000" />
+      <workItem from="1572181936985" duration="1714000" />
+      <workItem from="1572248346379" duration="3429000" />
+      <workItem from="1572318514146" duration="180000" />
+      <workItem from="1572587675467" duration="555000" />
+      <workItem from="1572608656038" duration="3309000" />
+      <workItem from="1572766276772" duration="1283000" />
+      <workItem from="1572830613937" duration="613000" />
+      <workItem from="1572848388299" duration="259000" />
+      <workItem from="1572848963779" duration="2269000" />
+      <workItem from="1572872868543" duration="900000" />
+      <workItem from="1573023025028" duration="103000" />
+      <workItem from="1573043768967" duration="198000" />
+      <workItem from="1573123049694" duration="2640000" />
+      <workItem from="1573301769699" duration="5381000" />
+      <workItem from="1573641157395" duration="1225000" />
+      <workItem from="1573872384357" duration="219000" />
+      <workItem from="1573874928048" duration="32000" />
+      <workItem from="1573967312130" duration="8302000" />
+      <workItem from="1573979664828" duration="860000" />
+      <workItem from="1574040794902" duration="7147000" />
+      <workItem from="1574082168751" duration="109000" />
+      <workItem from="1574151789458" duration="10835000" />
+      <workItem from="1574297839878" duration="4109000" />
+      <workItem from="1574310136586" duration="701000" />
+      <workItem from="1574477731752" duration="4907000" />
+      <workItem from="1574577989617" duration="2406000" />
+      <workItem from="1574662105692" duration="637000" />
+      <workItem from="1574681863807" duration="1998000" />
+      <workItem from="1574688833720" duration="13000" />
+      <workItem from="1574751895690" duration="1202000" />
+      <workItem from="1574838005820" duration="2139000" />
+      <workItem from="1574850835267" duration="14226000" />
+      <workItem from="1574990709892" duration="968000" />
+      <workItem from="1575083468890" duration="15000" />
+      <workItem from="1575092758324" duration="7487000" />
+      <workItem from="1575186757455" duration="3031000" />
+      <workItem from="1575249231729" duration="4061000" />
+      <workItem from="1575270637000" duration="625000" />
+      <workItem from="1575339351371" duration="5542000" />
+      <workItem from="1575374657592" duration="9831000" />
+      <workItem from="1575719028043" duration="3046000" />
+      <workItem from="1575780362132" duration="5506000" />
+      <workItem from="1575879412693" duration="2192000" />
+      <workItem from="1575963070194" duration="4843000" />
+      <workItem from="1576064661347" duration="2930000" />
+      <workItem from="1576118886469" duration="519000" />
+      <workItem from="1576125094149" duration="2370000" />
+      <workItem from="1576133055074" duration="51000" />
+      <workItem from="1576149885872" duration="906000" />
+      <workItem from="1576150823963" duration="204000" />
+      <workItem from="1576151060859" duration="28000" />
+      <workItem from="1576151109003" duration="464000" />
+      <workItem from="1576151707590" duration="12000" />
+      <workItem from="1576199819774" duration="5530000" />
+      <workItem from="1576207692223" duration="3374000" />
+      <workItem from="1576223972036" duration="23000" />
+      <workItem from="1576292688690" duration="644000" />
+      <workItem from="1576327861352" duration="7978000" />
+      <workItem from="1576460111040" duration="5596000" />
+      <workItem from="1576493434014" duration="3832000" />
+      <workItem from="1576560839015" duration="767000" />
+      <workItem from="1576720525637" duration="8916000" />
+      <workItem from="1576815767188" duration="3290000" />
+      <workItem from="1576930735563" duration="1558000" />
+      <workItem from="1577062857402" duration="6582000" />
+      <workItem from="1577151342975" duration="2967000" />
+      <workItem from="1577168693030" duration="2944000" />
+      <workItem from="1577258894645" duration="577000" />
+      <workItem from="1577347619413" duration="3219000" />
+      <workItem from="1577412114140" duration="6842000" />
+      <workItem from="1577517666966" duration="2055000" />
+      <workItem from="1577608052575" duration="2061000" />
+      <workItem from="1577704022775" duration="7214000" />
+      <workItem from="1577774336138" duration="9335000" />
+      <workItem from="1578027081059" duration="1874000" />
+      <workItem from="1578110367775" duration="7780000" />
+      <workItem from="1578212059366" duration="3492000" />
+      <workItem from="1578293921480" duration="7008000" />
+      <workItem from="1578312150202" duration="3837000" />
+      <workItem from="1578381209762" duration="4098000" />
+      <workItem from="1578726360462" duration="1582000" />
+      <workItem from="1578727955583" duration="586000" />
+      <workItem from="1578728561563" duration="2937000" />
+      <workItem from="1578970467509" duration="2079000" />
+      <workItem from="1579229104073" duration="3462000" />
+      <workItem from="1579253065583" duration="2139000" />
+      <workItem from="1579490294977" duration="38000" />
+      <workItem from="1579496131720" duration="3898000" />
+      <workItem from="1579525102729" duration="647000" />
+      <workItem from="1579697592715" duration="3000" />
+      <workItem from="1579698413362" duration="52000" />
+      <workItem from="1580107892446" duration="7183000" />
+      <workItem from="1580347884523" duration="10860000" />
+      <workItem from="1580471333247" duration="3565000" />
+      <workItem from="1580525839285" duration="4165000" />
+      <workItem from="1580651900855" duration="3288000" />
+      <workItem from="1580785184799" duration="11401000" />
+      <workItem from="1580957860772" duration="20413000" />
+      <workItem from="1581130499769" duration="4147000" />
+      <workItem from="1581303369575" duration="181000" />
+      <workItem from="1581312427554" duration="1000" />
+      <workItem from="1581312514138" duration="1751000" />
+      <workItem from="1581399268137" duration="14077000" />
+      <workItem from="1581511146080" duration="434000" />
+      <workItem from="1581567802625" duration="4365000" />
+      <workItem from="1581765993801" duration="4242000" />
+      <workItem from="1581947744121" duration="5188000" />
+      <workItem from="1582116865361" duration="2928000" />
+      <workItem from="1582465151912" duration="5995000" />
+      <workItem from="1582639603563" duration="664000" />
+      <workItem from="1582699529177" duration="1022000" />
+      <workItem from="1582702095218" duration="8545000" />
+      <workItem from="1582886747065" duration="11444000" />
+      <workItem from="1583062365639" duration="18824000" />
+      <workItem from="1583237207674" duration="2009000" />
+      <workItem from="1583388468179" duration="3936000" />
+      <workItem from="1583415891465" duration="794000" />
+      <workItem from="1583470603358" duration="5275000" />
+      <workItem from="1583584771971" duration="7709000" />
+      <workItem from="1583665493317" duration="1098000" />
+      <workItem from="1583718556583" duration="10296000" />
+      <workItem from="1583765503902" duration="3309000" />
+      <workItem from="1583803574176" duration="1633000" />
+      <workItem from="1583805996724" duration="2795000" />
+      <workItem from="1583896463995" duration="3018000" />
+      <workItem from="1584003746525" duration="2557000" />
+      <workItem from="1584069055487" duration="1495000" />
+      <workItem from="1584181820793" duration="40389000" />
+      <workItem from="1584327559599" duration="9107000" />
+      <workItem from="1584364596058" duration="24000" />
+      <workItem from="1584520146618" duration="11398000" />
+      <workItem from="1584597633793" duration="8061000" />
+      <workItem from="1584621309657" duration="13197000" />
+      <workItem from="1584784746708" duration="8321000" />
+      <workItem from="1584862873831" duration="1042000" />
+      <workItem from="1584864360127" duration="6167000" />
+      <workItem from="1584970724783" duration="3145000" />
+      <workItem from="1585016334110" duration="94000" />
+      <workItem from="1585046474620" duration="991000" />
+      <workItem from="1585058998061" duration="37050000" />
+      <workItem from="1585310386977" duration="2670000" />
+      <workItem from="1585381906662" duration="11181000" />
+      <workItem from="1585450709890" duration="16196000" />
+      <workItem from="1585553372885" duration="22035000" />
+      <workItem from="1585721545819" duration="22259000" />
+      <workItem from="1585882452480" duration="35183000" />
+      <workItem from="1586177334992" duration="35963000" />
+      <workItem from="1586494463563" duration="10212000" />
+      <workItem from="1586775427095" duration="8290000" />
+      <workItem from="1587024488030" duration="10005000" />
+      <workItem from="1587177922203" duration="3067000" />
+      <workItem from="1587194982839" duration="2694000" />
+      <workItem from="1587212060781" duration="3481000" />
+      <workItem from="1587219521264" duration="16005000" />
+      <workItem from="1587457868593" duration="8923000" />
+      <workItem from="1587608844873" duration="8772000" />
+      <workItem from="1587730056145" duration="17477000" />
+      <workItem from="1588150439411" duration="5664000" />
+      <workItem from="1588477987940" duration="1118000" />
+      <workItem from="1588559109675" duration="2402000" />
+      <workItem from="1588681512267" duration="2446000" />
+      <workItem from="1588769442110" duration="4603000" />
+      <workItem from="1588855969591" duration="18362000" />
+      <workItem from="1589122076702" duration="847000" />
+      <workItem from="1589269356744" duration="16662000" />
+      <workItem from="1589520480989" duration="13796000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1589366512406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589366512406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FindDuplicationTest_findDuplication - 2020.01.11 at 16h 21m 33s.xml">
+      <configuration name="FindDuplicationTest.findDuplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindDuplicationTest_findDuplication - 2020.01.11 at 16h 22m 52s.xml">
+      <configuration name="FindDuplicationTest.findDuplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindDuplication_findDuplication - 2020.01.11 at 16h 24m 28s.xml">
+      <configuration name="FindDuplication.findDuplication" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1154345000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1874" height="1216" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.27669454" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.25581396" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32274246" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.272052" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32943144" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16207276" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3298217" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31847724" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="418" height="1016" id="Documentation" order="13" side_tool="true" weight="0.3976834" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.10394456" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3308026" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="11" weight="0.32995737" />
+      <window_info anchor="right" id="Codota" order="4" weight="0.32995737" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Codota" order="4" weight="0.32995737" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20762712" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.27657267" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3308026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2494577" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/backtracking/GenerateParenthesis.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="65" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="max" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/bitopration/SingleNumberIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/StackAndQuene/MaxInWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/StackAndQuene/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LinkedList/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadIml3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/ThreadIml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/BuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/bitopration/MissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/LowestCommonAncestorofaBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/LowestCommonAncestorofaBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/tree/BinaryTreeGetNext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/string/GroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/string/IsRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/string/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/string/IsValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/MinPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newcoder/dp/MethodsToPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="16" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/LengthOfLIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/Jump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/JumpII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dp/LongestCommonSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/findAsort/ContainsDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/Combine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/SubsetsWithDup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/PermuteUnique.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/SubsetsWithDup.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/CombinationSum2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/Combine.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/backtracking/GenerateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/47 PermuteUnique.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="41" column="43" lean-forward="true" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/PermuteUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/NumSquarefulPerms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/LetterCasePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/784 字母大小写全排列.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/backtracking/GenerateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ds</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
